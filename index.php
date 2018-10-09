@@ -1,2 +1,2 @@
 this is sample app
-<?php echo these are Anand projects?>
+<?php echo "these are Anand projects ";?>
